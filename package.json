@@ -1,0 +1,30 @@
+{
+  "name": "web-sockets",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GbemigadEngineer/Web-sockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/GbemigadEngineer/Web-sockets/issues"
+  },
+  "homepage": "https://github.com/GbemigadEngineer/Web-sockets#readme",
+  "description": "",
+  "dependencies": {
+    "ws": "^8.19.0",
+    "wscat": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.1",
+    "@types/ws": "^8.18.1"
+  }
+}
